@@ -6,7 +6,6 @@
 
 	.kdata
 
-	# Allocate space for registers. Trying this with the stack first
 	tempt0: .space 4 # $t0
 	tempa0: .space 4 # $a0
 	tempv0: .space 4 # $v0
